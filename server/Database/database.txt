@@ -1,9 +1,0 @@
-{"username":"randomUser10000","password":1661}
-{"username":"randomUser7164","password":6345}
-{"username":"randomUser4104","password":227}
-{"username":"randomUser5797","password":6478}
-{"username":"randomUser6845","password":5800}
-{"username":"randomUser8475","password":9040}
-{"username":"randomUser5602","password":2721}
-{"username":"randomUser6787","password":4183}
-{"username":"randomUser6011","password":9581}
