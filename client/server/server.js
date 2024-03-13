@@ -69,6 +69,6 @@ app.post("/api/login", (req, res) => {
   });
 });
 
-app.listen(5000, () => {
-  console.log("Server started on port 5000.");
+app.listen(8080, () => {
+  console.log("Server started on port 8080.");
 });
